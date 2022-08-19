@@ -1,0 +1,17 @@
+E:\gemstone-finalProject\Gemstone\Gemstone\bin\Debug\Gemstone.exe.config
+E:\gemstone-finalProject\Gemstone\Gemstone\bin\Debug\Gemstone.exe
+E:\gemstone-finalProject\Gemstone\Gemstone\bin\Debug\Gemstone.pdb
+E:\gemstone-finalProject\Gemstone\Gemstone\bin\Debug\Gemstone.xml
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.vbprojAssemblyReference.cache
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.frmMeb.resources
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.Resources.resources
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.vbproj.GenerateResource.cache
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.vbproj.CoreCompileInputs.cache
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.exe
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.xml
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.pdb
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.frmOrd.resources
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.frmgem.resources
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.frmrev.resources
+E:\gemstone-finalProject\Gemstone\Gemstone\bin\Debug\dbGem.accdb
+E:\gemstone-finalProject\Gemstone\Gemstone\obj\Debug\Gemstone.test.resources
